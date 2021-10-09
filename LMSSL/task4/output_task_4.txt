@@ -1,0 +1,6 @@
+Phone number: 18005551234
+Phone number: 1-800-555-1234
+Phone number: 800-555-1234
+Phone number: 800.555.1234
+Phone number: 8005551234
+Phone number: 1----800----555-1234

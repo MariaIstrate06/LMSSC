@@ -1,0 +1,385 @@
+# E-mail
+
+De la Wikipedia, enciclopedia liberă
+
+Sari la navigare Sari la căutare
+
+[![](//upload.wikimedia.org/wikipedia/commons/thumb/a/a2/%40_symbol.svg/150px-%40_symbol.svg.png)](/wiki/Fi%C8%99ier:@_symbol.svg)
+
+[](/wiki/Fi%C8%99ier:@@@.svg "Extinde")
+
+Semnul „a rond”, parte a fiecărei adrese de e-mail.[1]
+
+**E-mailul** (un [anglicism](/wiki/Anglicism "Anglicism") citit [
+[pron.](/wiki/AFR "AFR") __i_ -meil_ ] sau și [ [pron.](/wiki/AFR "AFR") _i-m
+_e_ il_ ] ) transmiterea sau primirea de mesaje, de obicei prin
+[Internet](/wiki/Internet "Internet"). Tot „mailuri” („corespondențe”,
+„mesaje”) se numesc și mesajele individuale trimise prin aceste sisteme.
+Cuvântul provine din [engleză](/wiki/Englez%C4%83 "Engleză") de la _electronic
+mail_ , poștă electronică. Uneori pentru e-mail se mai întrebuințează și
+denumirea simplă _mail_.
+
+Primul e-mail a fost trimis în 1971 de către programatorul Roy Tomlinson.[2]
+
+O adresă de e-mail are forma [utilizator]@[domeniu].[TLD], unde [domeniul]
+este adresa site-ului web care acordă serviciul de e-mail, iar [TLD] este
+extensia de localizare geografică a domeniului (din engleză de la _Top Level
+Domain_ ). Un exemplu: ionpopescu123@yahoo.com. Semnul tipografic _@_ se
+citește în română „a rond” (engl.: _at_ ) și înseamnă „la”.
+
+Standardul pentru e-mail este definit în [RFC
+5322](https://tools.ietf.org/html/rfc5322), care stabilește printre altele că
+e-mailurile sunt compuse din două părți:
+
+  * antetul ( _header_ ), care include informații precum destinatar, subiect, etc.
+  * corpul ( _body_ ), textul mesajului propriu-zis.
+
+Antetul conține cel puțin patru câmpuri:
+
+  * expeditor ( _From_ ) - adresa de e-
+
+mail a expeditorului mesajului,
+
+  * destinatar ( _To_ ) - adresa de e-mail a destinatarului (sau adresele destinatarilor, dacă sunt mai mulți),
+  * subiectul ( _Subject_ ) - un rezumat al mesajului,
+  * data ( _Date_ ) - data și ora locală a trimiterii mesajului.
+
+Alte câmpuri des folosite sunt:
+
+  * _Cc_ \- copie la [indigo](/wiki/Indigo "Indigo") (de la " _Carbon Copy_ ") - o copie a mesajului ajunge și la adresa sau adresele de e-mail din acest câmp,
+  * _Bcc_ \- copie la indigo oarbă (de la " _Blind Carbon Copy_ ") - la fel ca și _Cc_ , doar că niciun destinatar nu va afla la cine se mai trimit copii ale mesajului, în afară de el însuși.
+
+## Utilizare[[modificare](/w/index.php?title=E-mail&veaction=edit&section=1
+"Modifică secțiunea: Utilizare") | [modificare
+sursă](/w/index.php?title=E-mail&action=edit&section=1 "Modifică secțiunea:
+Utilizare")]
+
+La momentul actual (anul [2016](/wiki/2016 "2016")), cei mai cunoscuți
+furnizori de servicii e-mail sunt:[3]
+
+  * Yahoo! ([Yahoo! Mail](/wiki/Yahoo!_Mail "Yahoo! Mail")), domeniile _@yahoo.ro_ , _@yahoo.com_
+  * Microsoft ([Outlook](/wiki/Outlook "Outlook")), domeniile _@outlook.com_ , _@hotmail.com_
+  * Google ([Gmail](/wiki/Gmail "Gmail")), domeniul _@gmail.com_
+
+## Note[[modificare](/w/index.php?title=E-mail&veaction=edit&section=2
+"Modifică secțiunea: Note") | [modificare
+sursă](/w/index.php?title=E-mail&action=edit&section=2 "Modifică secțiunea:
+Note")]
+
+  1. **^** Klensin, J. (octombrie 2008). [„RFC 5321 - Simple Mail Transfer Protocol”](http://tools.ietf.org/html/rfc5321#section-2.3.11). _Network Working Group_. Accesat în 27 februarie 2010.
+  2. **^** [Clash of the titans: Email v social media - BBC News](http://www.bbc.co.uk/news/business-15856116)
+  3. **^** [Yahoo directory](http://dir.yahoo.com/business_and_economy/business_to_business/communications_and_networking/internet_and_world_wide_web/email_providers/free_email/), accesat la [13 octombrie](/wiki/13_octombrie "13 octombrie") [2009](/wiki/2009 "2009")
+
+## Vezi și[[modificare](/w/index.php?title=E-mail&veaction=edit&section=3
+"Modifică secțiunea: Vezi și") | [modificare
+sursă](/w/index.php?title=E-mail&action=edit&section=3 "Modifică secțiunea:
+Vezi și")]
+
+  * [Internet Fax](/wiki/Internet_Fax "Internet Fax")
+  * [Netichetă](/wiki/Netichet%C4%83 "Netichetă")
+  * [Push e-mail](/wiki/Push_e-mail "Push e-mail")
+  * [Telegrafie](/wiki/Telegrafie "Telegrafie")
+  * [Webmail](/w/index.php?title=Webmail&action=edit&redlink=1 "Webmail — pagină inexistentă")
+
+  
+
+|
+
+[v](/wiki/Format:Caset%C4%83_de_navigare_simpl%C4%83_Scriere "Format:Casetă de
+navigare simplă Scriere") •
+[d](/wiki/Discu%C8%9Bie_Format:Caset%C4%83_de_navigare_simpl%C4%83_Scriere
+"Discuție Format:Casetă de navigare simplă Scriere") •
+[m](https://ro.wikipedia.org/w/index.php?title=Format:Caset%C4%83_de_navigare_simpl%C4%83_Scriere&action=edit)
+
+[Scriere](/wiki/Scriere "Scriere")  
+---  
+Elemente  |
+
+[Bibliografie](/wiki/Bibliografie "Bibliografie") • [Citat](/wiki/Citat
+"Citat") • [Dialog](/wiki/Dialog "Dialog") • [Jargon](/wiki/Jargon "Jargon") •
+[Ortografie](/wiki/Ortografie "Ortografie") • [Rimă](/wiki/Rim%C4%83 "Rimă")  
+  
+Locuri  |
+
+[Carte](/wiki/Carte "Carte") • [Citire](/wiki/Citire "Citire") • E-mail •
+[Eseu](/wiki/Eseu "Eseu") • [Genul epic](/wiki/Genul_epic "Genul epic") •
+[Genul liric](/wiki/Genul_liric "Genul liric") •
+[Literatură](/wiki/Literatur%C4%83 "Literatură") • [Plagiat](/wiki/Plagiat
+"Plagiat") • [Poezie](/wiki/Poezie "Poezie") • [Proză](/wiki/Proz%C4%83
+"Proză") • [Recenzie](/wiki/Recenzie "Recenzie") • [Roman
+(literatură)](/wiki/Roman_\(literatur%C4%83\) "Roman \(literatură\)") •
+[Scrisoare](/wiki/Scrisoare "Scrisoare") • [Vers](/wiki/Vers "Vers")  
+  
+Teorie  |
+
+[Gramatică](/wiki/Gramatic%C4%83 "Gramatică")  
+  
+[Informații bibliotecare](/wiki/Ajutor:Informa%C8%9Bii_bibliotecare
+"Ajutor:Informații bibliotecare")|
+
+  * [BNE](/wiki/Biblioteca_Nacional_de_Espa%C3%B1a "Biblioteca Nacional de España"): [XX536497](http://catalogo.bne.es/uhtbin/authoritybrowse.cgi?action=display&authority_id=XX536497)
+  * [BNF](/wiki/Biblioth%C3%A8que_nationale_de_France "Bibliothèque nationale de France"): [cb11985415v](https://catalogue.bnf.fr/ark:/12148/cb11985415v) [(data)](http://data.bnf.fr/ark:/12148/cb11985415v)
+  * [GND](/wiki/Integrated_Authority_File "Integrated Authority File"): [4191427-2](https://d-nb.info/gnd/4191427-2)
+  * [LCCN](/wiki/Library_of_Congress_Control_Number "Library of Congress Control Number"): [sh85042347](https://id.loc.gov/authorities/subjects/sh85042347)
+  * [NARA](/wiki/National_Archives_and_Records_Administration "National Archives and Records Administration"): [10636085](https://catalog.archives.gov/id/10636085)
+  * [NDL](/wiki/National_Diet_Library "National Diet Library"): [00576450](https://id.ndl.go.jp/auth/ndlna/00576450)
+
+  
+  
+---|---  
+  
+![](//ro.wikipedia.org/wiki/Special:CentralAutoLogin/start?type=1x1)
+
+Adus de la
+[https://ro.wikipedia.org/w/index.php?title=E-mail&oldid=14306421](https://ro.wikipedia.org/w/index.php?title=E-mail&oldid=14306421)
+
+[Categorii](/wiki/Special:Categorii "Special:Categorii"):
+
+  * [Documente electronice](/wiki/Categorie:Documente_electronice "Categorie:Documente electronice")
+  * [Invenții americane](/wiki/Categorie:Inven%C8%9Bii_americane "Categorie:Invenții americane")
+  * [Istoria internetului](/wiki/Categorie:Istoria_internetului "Categorie:Istoria internetului")
+  * [Poștă electronică](/wiki/Categorie:Po%C8%99t%C4%83_electronic%C4%83 "Categorie:Poștă electronică")
+  * [Terminologie internet](/wiki/Categorie:Terminologie_internet "Categorie:Terminologie internet")
+  * [Anglicisme](/wiki/Categorie:Anglicisme "Categorie:Anglicisme")
+
+Categorii ascunse:
+
+  * [Articole Wikipedia cu identificatori BNE](/wiki/Categorie:Articole_Wikipedia_cu_identificatori_BNE "Categorie:Articole Wikipedia cu identificatori BNE")
+  * [Articole Wikipedia cu identificatori BNF](/wiki/Categorie:Articole_Wikipedia_cu_identificatori_BNF "Categorie:Articole Wikipedia cu identificatori BNF")
+  * [Articole Wikipedia cu identificatori GND](/wiki/Categorie:Articole_Wikipedia_cu_identificatori_GND "Categorie:Articole Wikipedia cu identificatori GND")
+  * [Articole Wikipedia cu identificatori LCCN](/wiki/Categorie:Articole_Wikipedia_cu_identificatori_LCCN "Categorie:Articole Wikipedia cu identificatori LCCN")
+  * [Articole Wikipedia cu identificatori NARA](/wiki/Categorie:Articole_Wikipedia_cu_identificatori_NARA "Categorie:Articole Wikipedia cu identificatori NARA")
+  * [Articole Wikipedia cu identificatori NDL](/wiki/Categorie:Articole_Wikipedia_cu_identificatori_NDL "Categorie:Articole Wikipedia cu identificatori NDL")
+  * [Articole Wikipedia cu informații bibliotecare](/wiki/Categorie:Articole_Wikipedia_cu_informa%C8%9Bii_bibliotecare "Categorie:Articole Wikipedia cu informații bibliotecare")
+  * [Pagini ce folosesc legături automate către RFC](/wiki/Categorie:Pagini_ce_folosesc_leg%C4%83turi_automate_c%C4%83tre_RFC "Categorie:Pagini ce folosesc legături automate către RFC")
+
+## Meniu de navigare
+
+###  Unelte personale
+
+  * Nu sunteți autentificat
+  * [Discuții](/wiki/Special:Discu%C8%9Biile_mele "Discuții despre editări pentru adresa IP curentă \[n\]")
+  * [Contribuții](/wiki/Special:Contribu%C8%9Biile_mele "O listă de modificări efectuate de la această adresă IP \[y\]")
+  * [Creare cont](/w/index.php?title=Special:%C3%8Enregistrare&returnto=E-mail "Vă încurajăm să vă creați un cont și să vă autentificați; totuși, nu este obligatoriu")
+  * [Autentificare](/w/index.php?title=Special:Autentificare&returnto=E-mail "Sunteți încurajat să vă autentificați, deși acest lucru nu este obligatoriu. \[o\]")
+
+###  Spații de nume
+
+  * [Articol](/wiki/E-mail "Vedeți conținutul paginii \[a\]")
+  * [Discuție](/wiki/Discu%C8%9Bie:E-mail "Discuții despre această pagină \[t\]")
+
+###  Variante expanded collapsed
+
+###  Vizualizări
+
+  * [Lectură](/wiki/E-mail)
+  * [Modificare](/w/index.php?title=E-mail&veaction=edit "Modificați această pagină cu EditorulVizual \[v\]")
+  * [Modificare sursă](/w/index.php?title=E-mail&action=edit "Modificați această pagină \[e\]")
+  * [Istoric](/w/index.php?title=E-mail&action=history "Versiunile anterioare ale paginii și autorii lor. \[h\]")
+
+###  Mai mult expanded collapsed
+
+###  Căutare
+
+[](/wiki/Pagina_principal%C4%83 "Pagina principală")
+
+###  Navigare
+
+  * [Pagina principală](/wiki/Pagina_principal%C4%83 "Vedeți pagina principală \[z\]")
+  * [Schimbări recente](/wiki/Special:Schimb%C4%83ri_recente "Lista ultimelor schimbări realizate în acest wiki \[r\]")
+  * [Cafenea](/wiki/Wikipedia:Cafenea "Informații despre evenimentele curente")
+  * [Articol aleatoriu](/wiki/Special:Aleatoriu "Afișează o pagină aleatoare \[x\]")
+  * [Facebook](https://www.facebook.com/WikipediaRomana)
+
+###  Participare
+
+  * [Cum încep pe Wikipedia](/wiki/Ajutor:Bun_venit)
+  * [Ajutor](/wiki/Ajutor:Cuprins "Locul în care găsiți ajutor")
+  * [Portaluri tematice](/wiki/Portal:R%C4%83sfoire)
+  * [Articole cerute](/wiki/Wikipedia:Articole_cerute)
+  * [Donații](//donate.wikimedia.org/wiki/Special:FundraiserRedirector?utm_source=donate&utm_medium=sidebar&utm_campaign=C13_ro.wikipedia.org&uselang=ro "Sprijiniți-ne")
+
+###  Trusa de unelte
+
+  * [Ce trimite aici](/wiki/Special:Ce_se_leag%C4%83_aici/E-mail "Lista tuturor paginilor wiki care conduc spre această pagină \[j\]")
+  * [Modificări corelate](/wiki/Special:Modific%C4%83ri_corelate/E-mail "Schimbări recente în legătură cu această pagină \[k\]")
+  * [Trimite fișier](/wiki/Wikipedia:Trimite_fi%C8%99ier "Încărcare fișiere \[u\]")
+  * [Pagini speciale](/wiki/Special:Pagini_speciale "Lista tuturor paginilor speciale \[q\]")
+  * [Navigare în istoric](/w/index.php?title=E-mail&oldid=14306421 "Legătura permanentă către această versiune a paginii")
+  * [Informații despre pagină](/w/index.php?title=E-mail&action=info "Mai multe informații despre această pagină")
+  * [Citează acest articol](/w/index.php?title=Special:Citeaz%C4%83&page=E-mail&id=14306421&wpFormIdentifier=titleform "Informații cu privire la modul de citare a acestei pagini")
+  * [Element Wikidata](https://www.wikidata.org/wiki/Special:EntityPage/Q9158 "Legătură către elementul asociat din depozitul de date \[g\]")
+
+###  Tipărire/exportare
+
+  * [Creare carte](/w/index.php?title=Special:Carte&bookcmd=book_creator&referer=E-mail)
+  * [Descarcă PDF](/w/index.php?title=Special:DownloadAsPdf&page=E-mail&action=show-download-screen)
+  * [Versiune de tipărit](/w/index.php?title=E-mail&printable=yes "Versiunea de tipărit a acestei pagini \[p\]")
+
+###  În alte proiecte
+
+  * [Wikimedia Commons](https://commons.wikimedia.org/wiki/Category:E-mail)
+
+###  În alte limbi
+
+  * [Afrikaans](https://af.wikipedia.org/wiki/E-pos "E-pos – afrikaans")
+  * [Alemannisch](https://als.wikipedia.org/wiki/E-Mail "E-Mail – Alemannisch")
+  * [Aragonés](https://an.wikipedia.org/wiki/Correu_electronico "Correu electronico – aragoneză")
+  * [العربية](https://ar.wikipedia.org/wiki/%D8%A8%D8%B1%D9%8A%D8%AF_%D8%A5%D9%84%D9%83%D8%AA%D8%B1%D9%88%D9%86%D9%8A "بريد إلكتروني – arabă")
+  * [مصرى](https://arz.wikipedia.org/wiki/%D8%A7%D9%8A%D9%85%D9%8A%D9%84 "ايميل – Egyptian Arabic")
+  * [অসমীয়া](https://as.wikipedia.org/wiki/%E0%A6%87%E0%A6%AE%E0%A7%87%E0%A6%87%E0%A6%B2 "ইমেইল – asameză")
+  * [Asturianu](https://ast.wikipedia.org/wiki/Corr%C3%A9u_electr%C3%B3nicu "Corréu electrónicu – asturiană")
+  * [Azərbaycanca](https://az.wikipedia.org/wiki/Elektron_po%C3%A7t "Elektron poçt – azeră")
+  * [Башҡортса](https://ba.wikipedia.org/wiki/%D0%AD%D0%BB%D0%B5%D0%BA%D1%82%D1%80%D0%BE%D0%BD_%D0%BF%D0%BE%D1%87%D1%82%D0%B0 "Электрон почта – bașkiră")
+  * [Boarisch](https://bar.wikipedia.org/wiki/E-Mail "E-Mail – Bavarian")
+  * [Žemaitėška](https://bat-smg.wikipedia.org/wiki/Alektruon%C4%97nis_pa%C5%A1ts "Alektruonėnis pašts – Samogitian")
+  * [Беларуская](https://be.wikipedia.org/wiki/%D0%AD%D0%BB%D0%B5%D0%BA%D1%82%D1%80%D0%BE%D0%BD%D0%BD%D0%B0%D1%8F_%D0%BF%D0%BE%D1%88%D1%82%D0%B0 "Электронная пошта – belarusă")
+  * [Беларуская (тарашкевіца)](https://be-tarask.wikipedia.org/wiki/%D0%AD%D0%BB%D0%B5%D0%BA%D1%82%D1%80%D0%BE%D0%BD%D0%BD%D0%B0%D1%8F_%D0%BF%D0%BE%D1%88%D1%82%D0%B0 "Электронная пошта – Belarusian \(Taraškievica orthography\)")
+  * [Български](https://bg.wikipedia.org/wiki/%D0%95%D0%BB%D0%B5%D0%BA%D1%82%D1%80%D0%BE%D0%BD%D0%BD%D0%B0_%D0%BF%D0%BE%D1%89%D0%B0 "Електронна поща – bulgară")
+  * [भोजपुरी](https://bh.wikipedia.org/wiki/%E0%A4%88_%E0%A4%AE%E0%A5%87%E0%A4%B2 "ई मेल – Bhojpuri")
+  * [বাংলা](https://bn.wikipedia.org/wiki/%E0%A6%87-%E0%A6%AE%E0%A7%87%E0%A6%87%E0%A6%B2 "ই-মেইল – bengaleză")
+  * [བོད་ཡིག](https://bo.wikipedia.org/wiki/%E0%BD%82%E0%BE%B3%E0%BD%BC%E0%BD%82%E0%BC%8B%E0%BD%A2%E0%BE%A1%E0%BD%B4%E0%BD%A3%E0%BC%8B%E0%BD%A0%E0%BD%95%E0%BE%B2%E0%BD%B2%E0%BD%93%E0%BC%8B%E0%BD%A6%E0%BE%92%E0%BD%98%E0%BC%8D "གློག་རྡུལ་འཕྲིན་སྒམ། – tibetană")
+  * [Brezhoneg](https://br.wikipedia.org/wiki/Anvonerezh_elektronek "Anvonerezh elektronek – bretonă")
+  * [Bosanski](https://bs.wikipedia.org/wiki/E-mail "E-mail – bosniacă")
+  * [Català](https://ca.wikipedia.org/wiki/Correu_electr%C3%B2nic "Correu electrònic – catalană")
+  * [Mìng-dĕ̤ng-ngṳ̄](https://cdo.wikipedia.org/wiki/Di%C3%AAng-c%E1%B9%B3%CC%84-pi%C4%95 "Diêng-cṳ̄-piĕ – Min Dong Chinese")
+  * [Нохчийн](https://ce.wikipedia.org/wiki/%D0%AD%D0%BB%D0%B5%D0%BA%D1%82%D1%80%D0%BE%D0%BD%D0%B0%D0%BD_%D0%BF%D0%BE%D1%88%D1%82%D0%B0 "Электронан пошта – cecenă")
+  * [ᏣᎳᎩ](https://chr.wikipedia.org/wiki/%E1%8E%A0%E1%8E%BE%E1%8E%A6%E1%8E%B5%E1%8F%8D%E1%8E%A9_%E1%8E%AA%E1%8F%AA%E1%8E%B5 "ᎠᎾᎦᎵᏍᎩ ᎪᏪᎵ – cherokee")
+  * [کوردی](https://ckb.wikipedia.org/wiki/%D9%BE%DB%86%D8%B3%D8%AA%DB%8C_%D8%A6%DB%95%D9%84%DB%95%DA%A9%D8%AA%D8%B1%DB%86%D9%86%DB%8C "پۆستی ئەلەکترۆنی – kurdă centrală")
+  * [Čeština](https://cs.wikipedia.org/wiki/E-mail "E-mail – cehă")
+  * [Чӑвашла](https://cv.wikipedia.org/wiki/%D0%AD%D0%BB%D0%B5%D0%BA%D1%82%D1%80%D0%BE%D0%BD%D0%BB%C4%83_%D0%BF%D0%BE%D1%87%D1%82%D0%B0 "Электронлă почта – ciuvașă")
+  * [Cymraeg](https://cy.wikipedia.org/wiki/E-bost "E-bost – galeză")
+  * [Dansk](https://da.wikipedia.org/wiki/E-mail "E-mail – daneză")
+  * [Deutsch](https://de.wikipedia.org/wiki/E-Mail "E-Mail – germană")
+  * [Zazaki](https://diq.wikipedia.org/wiki/E-mail "E-mail – Zazaki")
+  * [Ελληνικά](https://el.wikipedia.org/wiki/%CE%97%CE%BB%CE%B5%CE%BA%CF%84%CF%81%CE%BF%CE%BD%CE%B9%CE%BA%CF%8C_%CF%84%CE%B1%CF%87%CF%85%CE%B4%CF%81%CE%BF%CE%BC%CE%B5%CE%AF%CE%BF "Ηλεκτρονικό ταχυδρομείο – greacă")
+  * [Emiliàn e rumagnòl](https://eml.wikipedia.org/wiki/P%C3%B2sta_eletr%C3%B4nica "Pòsta eletrônica – Emiliano-Romagnolo")
+  * [English](https://en.wikipedia.org/wiki/Email "Email – engleză")
+  * [Esperanto](https://eo.wikipedia.org/wiki/Retpo%C5%9Dto "Retpoŝto – esperanto")
+  * [Español](https://es.wikipedia.org/wiki/Correo_electr%C3%B3nico "Correo electrónico – spaniolă")
+  * [Eesti](https://et.wikipedia.org/wiki/E-kiri "E-kiri – estonă")
+  * [Euskara](https://eu.wikipedia.org/wiki/Posta_elektroniko "Posta elektroniko – bască")
+  * [فارسی](https://fa.wikipedia.org/wiki/%D8%A7%DB%8C%D9%85%DB%8C%D9%84 "ایمیل – persană")
+  * [Suomi](https://fi.wikipedia.org/wiki/S%C3%A4hk%C3%B6posti "Sähköposti – finlandeză")
+  * [Võro](https://fiu-vro.wikipedia.org/wiki/V%C3%A4lkpost "Välkpost – võro")
+  * [Føroyskt](https://fo.wikipedia.org/wiki/Teldupostur "Teldupostur – feroeză")
+  * [Français](https://fr.wikipedia.org/wiki/Courrier_%C3%A9lectronique "Courrier électronique – franceză")
+  * [Nordfriisk](https://frr.wikipedia.org/wiki/E-Mail "E-Mail – frizonă nordică")
+  * [Furlan](https://fur.wikipedia.org/wiki/Pueste_eletroniche "Pueste eletroniche – friulană")
+  * [Frysk](https://fy.wikipedia.org/wiki/E-mail "E-mail – frizonă occidentală")
+  * [Gaeilge](https://ga.wikipedia.org/wiki/R%C3%ADomhphost "Ríomhphost – irlandeză")
+  * [贛語](https://gan.wikipedia.org/wiki/%E9%9B%BB%E9%83%B5 "電郵 – chineză gan")
+  * [Kriyòl gwiyannen](https://gcr.wikipedia.org/wiki/Koury%C3%A9_%C3%A9lektronik "Kouryé élektronik – Guianan Creole")
+  * [Galego](https://gl.wikipedia.org/wiki/Correo_electr%C3%B3nico "Correo electrónico – galiciană")
+  * [گیلکی](https://glk.wikipedia.org/wiki/%D8%A7%D9%8A%D9%85%D9%8A%D9%84 "ايميل – Gilaki")
+  * [ગુજરાતી](https://gu.wikipedia.org/wiki/%E0%AA%87-%E0%AA%AE%E0%AB%87%E0%AA%87%E0%AA%B2 "ઇ-મેઇલ – gujarati")
+  * [Hausa](https://ha.wikipedia.org/wiki/Email "Email – hausa")
+  * [עברית](https://he.wikipedia.org/wiki/%D7%93%D7%95%D7%90%D7%A8_%D7%90%D7%9C%D7%A7%D7%98%D7%A8%D7%95%D7%A0%D7%99 "דואר אלקטרוני – ebraică")
+  * [हिन्दी](https://hi.wikipedia.org/wiki/%E0%A4%88%E0%A4%AE%E0%A5%87%E0%A4%B2 "ईमेल – hindi")
+  * [Hrvatski](https://hr.wikipedia.org/wiki/Elektroni%C4%8Dka_po%C5%A1ta "Elektronička pošta – croată")
+  * [Magyar](https://hu.wikipedia.org/wiki/E-mail "E-mail – maghiară")
+  * [Հայերեն](https://hy.wikipedia.org/wiki/%D4%B7%D5%AC%D5%A5%D5%AF%D5%BF%D6%80%D5%B8%D5%B6%D5%A1%D5%B5%D5%AB%D5%B6_%D6%83%D5%B8%D5%BD%D5%BF "Էլեկտրոնային փոստ – armeană")
+  * [Interlingua](https://ia.wikipedia.org/wiki/E-mail "E-mail – interlingua")
+  * [Bahasa Indonesia](https://id.wikipedia.org/wiki/Surat_elektronik "Surat elektronik – indoneziană")
+  * [Íslenska](https://is.wikipedia.org/wiki/T%C3%B6lvup%C3%B3stur "Tölvupóstur – islandeză")
+  * [Italiano](https://it.wikipedia.org/wiki/Posta_elettronica "Posta elettronica – italiană")
+  * [日本語](https://ja.wikipedia.org/wiki/%E9%9B%BB%E5%AD%90%E3%83%A1%E3%83%BC%E3%83%AB "電子メール – japoneză")
+  * [Patois](https://jam.wikipedia.org/wiki/Iimiel "Iimiel – Jamaican Creole English")
+  * [Jawa](https://jv.wikipedia.org/wiki/Layang_%C3%A8l%C3%A8ktronik "Layang èlèktronik – javaneză")
+  * [ქართული](https://ka.wikipedia.org/wiki/%E1%83%94%E1%83%9A%E1%83%94%E1%83%A5%E1%83%A2%E1%83%A0%E1%83%9D%E1%83%9C%E1%83%A3%E1%83%9A%E1%83%98_%E1%83%A4%E1%83%9D%E1%83%A1%E1%83%A2%E1%83%90 "ელექტრონული ფოსტა – georgiană")
+  * [Қазақша](https://kk.wikipedia.org/wiki/%D0%AD%D0%BB%D0%B5%D0%BA%D1%82%D1%80%D0%BE%D0%BD%D0%B4%D1%8B_%D0%BF%D0%BE%D1%88%D1%82%D0%B0 "Электронды пошта – kazahă")
+  * [ಕನ್ನಡ](https://kn.wikipedia.org/wiki/%E0%B2%87-%E0%B2%85%E0%B2%82%E0%B2%9A%E0%B3%86 "ಇ-ಅಂಚೆ – kannada")
+  * [한국어](https://ko.wikipedia.org/wiki/%EC%A0%84%EC%9E%90%EC%9A%B0%ED%8E%B8 "전자우편 – coreeană")
+  * [Kurdî](https://ku.wikipedia.org/wiki/E-peyam "E-peyam – kurdă")
+  * [Кыргызча](https://ky.wikipedia.org/wiki/%D0%AD%D0%BB%D0%B5%D0%BA%D1%82%D1%80%D0%BE%D0%BD%D0%B4%D1%83%D0%BA_%D0%BF%D0%BE%D1%87%D1%82%D0%B0 "Электрондук почта – kârgâză")
+  * [Latina](https://la.wikipedia.org/wiki/Cursus_electronicus "Cursus electronicus – latină")
+  * [Lëtzebuergesch](https://lb.wikipedia.org/wiki/E-Mail "E-Mail – luxemburgheză")
+  * [Limburgs](https://li.wikipedia.org/wiki/E-mail "E-mail – limburgheză")
+  * [Lombard](https://lmo.wikipedia.org/wiki/E-mail "E-mail – Lombard")
+  * [Lingála](https://ln.wikipedia.org/wiki/Nkand%C3%A1 "Nkandá – lingala")
+  * [ລາວ](https://lo.wikipedia.org/wiki/%E0%BA%AD%E0%BA%B5%E0%BB%81%E0%BA%A1%E0%BA%A5 "ອີແມລ – laoțiană")
+  * [Lietuvių](https://lt.wikipedia.org/wiki/Elektroninis_pa%C5%A1tas "Elektroninis paštas – lituaniană")
+  * [Latviešu](https://lv.wikipedia.org/wiki/Elektroniskais_pasts "Elektroniskais pasts – letonă")
+  * [Malagasy](https://mg.wikipedia.org/wiki/Mailaka "Mailaka – malgașă")
+  * [Олык марий](https://mhr.wikipedia.org/wiki/%D0%AD%D0%BB%D0%B5%D0%BA%D1%82%D1%80%D0%BE%D0%BD_%D0%BF%D0%BE%D1%87%D1%82%D0%BE "Электрон почто – Eastern Mari")
+  * [Minangkabau](https://min.wikipedia.org/wiki/Surat_elektronik "Surat elektronik – minangkabau")
+  * [Македонски](https://mk.wikipedia.org/wiki/%D0%95%D0%BB%D0%B5%D0%BA%D1%82%D1%80%D0%BE%D0%BD%D1%81%D0%BA%D0%BE_%D0%BF%D0%B8%D1%81%D0%BC%D0%BE "Електронско писмо – macedoneană")
+  * [മലയാളം](https://ml.wikipedia.org/wiki/%E0%B4%87-%E0%B4%AE%E0%B5%86%E0%B4%AF%E0%B4%BF%E0%B5%BD "ഇ-മെയിൽ – malayalam")
+  * [Монгол](https://mn.wikipedia.org/wiki/%D0%A6%D0%B0%D1%85%D0%B8%D0%BC_%D1%88%D1%83%D1%83%D0%B4%D0%B0%D0%BD "Цахим шуудан – mongolă")
+  * [मराठी](https://mr.wikipedia.org/wiki/%E0%A4%88%E0%A4%AE%E0%A5%87%E0%A4%B2 "ईमेल – marathi")
+  * [Bahasa Melayu](https://ms.wikipedia.org/wiki/Mel_elektronik "Mel elektronik – malaeză")
+  * [မြန်မာဘာသာ](https://my.wikipedia.org/wiki/%E1%80%A1%E1%80%AE%E1%80%B8%E1%80%99%E1%80%B1%E1%80%B8%E1%80%9C%E1%80%BA "အီးမေးလ် – birmană")
+  * [Nāhuatl](https://nah.wikipedia.org/wiki/E-mail "E-mail – Nāhuatl")
+  * [Plattdüütsch](https://nds.wikipedia.org/wiki/Nettbreef "Nettbreef – germana de jos")
+  * [Nedersaksies](https://nds-nl.wikipedia.org/wiki/Lienpost "Lienpost – saxona de jos")
+  * [नेपाली](https://ne.wikipedia.org/wiki/%E0%A4%87%E0%A4%AE%E0%A5%87%E0%A4%B2 "इमेल – nepaleză")
+  * [Nederlands](https://nl.wikipedia.org/wiki/E-mail "E-mail – neerlandeză")
+  * [Norsk nynorsk](https://nn.wikipedia.org/wiki/E-post "E-post – norvegiană nynorsk")
+  * [Norsk bokmål](https://no.wikipedia.org/wiki/E-post "E-post – norvegiană bokmål")
+  * [Occitan](https://oc.wikipedia.org/wiki/Corri%C3%A8r_electronic "Corrièr electronic – occitană")
+  * [ଓଡ଼ିଆ](https://or.wikipedia.org/wiki/%E0%AC%87%E0%AC%AE%E0%AD%87%E0%AC%B2 "ଇମେଲ – odia")
+  * [ਪੰਜਾਬੀ](https://pa.wikipedia.org/wiki/%E0%A8%88-%E0%A8%AE%E0%A9%87%E0%A8%B2 "ਈ-ਮੇਲ – punjabi")
+  * [Polski](https://pl.wikipedia.org/wiki/Poczta_elektroniczna "Poczta elektroniczna – poloneză")
+  * [Piemontèis](https://pms.wikipedia.org/wiki/P%C3%B2sta_eletr%C3%B2nica "Pòsta eletrònica – Piedmontese")
+  * [پنجابی](https://pnb.wikipedia.org/wiki/%D8%A7%DB%8C_%D9%85%DB%8C%D9%84 "ای میل – Western Punjabi")
+  * [پښتو](https://ps.wikipedia.org/wiki/%D8%A8%D8%B1%DB%90%DA%9A%D9%84%D9%8A%DA%A9 "برېښليک – paștună")
+  * [Português](https://pt.wikipedia.org/wiki/E-mail "E-mail – portugheză")
+  * [Runa Simi](https://qu.wikipedia.org/wiki/E-chaski "E-chaski – quechua")
+  * [Rumantsch](https://rm.wikipedia.org/wiki/E-mail "E-mail – romanșă")
+  * [Русский](https://ru.wikipedia.org/wiki/%D0%AD%D0%BB%D0%B5%D0%BA%D1%82%D1%80%D0%BE%D0%BD%D0%BD%D0%B0%D1%8F_%D0%BF%D0%BE%D1%87%D1%82%D0%B0 "Электронная почта – rusă")
+  * [Русиньскый](https://rue.wikipedia.org/wiki/%D0%95%D0%BB%D0%B5%D0%BA%D1%82%D1%80%D0%BE%D0%BD%D1%96%D1%87%D0%BD%D0%B0_%D0%BF%D0%BE%D1%88%D1%82%D0%B0 "Електронічна пошта – Rusyn")
+  * [Саха тыла](https://sah.wikipedia.org/wiki/E-mail "E-mail – sakha")
+  * [ᱥᱟᱱᱛᱟᱲᱤ](https://sat.wikipedia.org/wiki/%E1%B1%A4%E1%B1%A2%E1%B1%AE%E1%B1%9E "ᱤᱢᱮᱞ – santali")
+  * [Sardu](https://sc.wikipedia.org/wiki/Posta_eletr%C3%B2nica "Posta eletrònica – sardiniană")
+  * [Sicilianu](https://scn.wikipedia.org/wiki/E-mail "E-mail – siciliană")
+  * [سنڌي](https://sd.wikipedia.org/wiki/%D8%A7%D9%8A_%D9%85%D9%8A%D9%84 "اي ميل – sindhi")
+  * [Srpskohrvatski / српскохрватски](https://sh.wikipedia.org/wiki/E-mail "E-mail – sârbo-croată")
+  * [සිංහල](https://si.wikipedia.org/wiki/%E0%B7%80%E0%B7%92%E0%B6%AF%E0%B7%8A%E2%80%8D%E0%B6%BA%E0%B7%94%E0%B6%AD%E0%B7%8A_%E0%B6%AD%E0%B7%90%E0%B6%B4%E0%B7%91%E0%B6%BD "විද්‍යුත් තැපෑල – singhaleză")
+  * [Simple English](https://simple.wikipedia.org/wiki/E-mail "E-mail – Simple English")
+  * [Slovenčina](https://sk.wikipedia.org/wiki/E-mail "E-mail – slovacă")
+  * [Slovenščina](https://sl.wikipedia.org/wiki/Elektronska_po%C5%A1ta "Elektronska pošta – slovenă")
+  * [Soomaaliga](https://so.wikipedia.org/wiki/Email "Email – somaleză")
+  * [Shqip](https://sq.wikipedia.org/wiki/Posta_elektronike "Posta elektronike – albaneză")
+  * [Српски / srpski](https://sr.wikipedia.org/wiki/%D0%98%D0%BC%D0%B5%D1%98%D0%BB "Имејл – sârbă")
+  * [Sunda](https://su.wikipedia.org/wiki/Sur%C3%A9l%C3%A9k "Surélék – sundaneză")
+  * [Svenska](https://sv.wikipedia.org/wiki/E-post "E-post – suedeză")
+  * [Kiswahili](https://sw.wikipedia.org/wiki/Barua_pepe "Barua pepe – swahili")
+  * [தமிழ்](https://ta.wikipedia.org/wiki/%E0%AE%AE%E0%AE%BF%E0%AE%A9%E0%AF%8D%E0%AE%A9%E0%AE%9E%E0%AF%8D%E0%AE%9A%E0%AE%B2%E0%AF%8D "மின்னஞ்சல் – tamilă")
+  * [తెలుగు](https://te.wikipedia.org/wiki/%E0%B0%88-%E0%B0%AE%E0%B1%86%E0%B0%AF%E0%B0%BF%E0%B0%B2%E0%B1%8D "ఈ-మెయిల్ – telugu")
+  * [ไทย](https://th.wikipedia.org/wiki/%E0%B8%AD%E0%B8%B5%E0%B9%80%E0%B8%A1%E0%B8%A5 "อีเมล – thailandeză")
+  * [Tagalog](https://tl.wikipedia.org/wiki/Elektronikong_liham "Elektronikong liham – tagalog")
+  * [Tok Pisin](https://tpi.wikipedia.org/wiki/Imel "Imel – tok pisin")
+  * [Türkçe](https://tr.wikipedia.org/wiki/E-posta "E-posta – turcă")
+  * [ئۇيغۇرچە / Uyghurche](https://ug.wikipedia.org/wiki/%D8%A6%D9%89%D9%84%D8%AE%DB%95%D8%AA "ئىلخەت – uigură")
+  * [Українська](https://uk.wikipedia.org/wiki/%D0%95%D0%BB%D0%B5%D0%BA%D1%82%D1%80%D0%BE%D0%BD%D0%BD%D0%B0_%D0%BF%D0%BE%D1%88%D1%82%D0%B0 "Електронна пошта – ucraineană")
+  * [اردو](https://ur.wikipedia.org/wiki/%D8%A8%D8%B1%D9%82%DB%8C_%DA%88%D8%A7%DA%A9 "برقی ڈاک – urdu")
+  * [Oʻzbekcha/ўзбекча](https://uz.wikipedia.org/wiki/E-Mail "E-Mail – uzbecă")
+  * [Vèneto](https://vec.wikipedia.org/wiki/Posta_e%C5%82etr%C3%B2nega "Posta ełetrònega – Venetian")
+  * [Tiếng Việt](https://vi.wikipedia.org/wiki/Th%C6%B0_%C4%91i%E1%BB%87n_t%E1%BB%AD "Thư điện tử – vietnameză")
+  * [Walon](https://wa.wikipedia.org/wiki/Emile "Emile – valonă")
+  * [Winaray](https://war.wikipedia.org/wiki/Email "Email – waray")
+  * [吴语](https://wuu.wikipedia.org/wiki/%E7%94%B5%E5%AD%90%E9%82%AE%E4%BB%B6 "电子邮件 – chineză wu")
+  * [IsiXhosa](https://xh.wikipedia.org/wiki/I-e-mail "I-e-mail – xhosa")
+  * [ייִדיש](https://yi.wikipedia.org/wiki/%D7%91%D7%9C%D7%99%D7%A6%D7%A4%D7%90%D7%A1%D7%98 "בליצפאסט – idiș")
+  * [中文](https://zh.wikipedia.org/wiki/%E7%94%B5%E5%AD%90%E9%82%AE%E4%BB%B6 "电子邮件 – chineză")
+  * [Bân-lâm-gú](https://zh-min-nan.wikipedia.org/wiki/Ti%C4%81n-ch%C3%BA-phoe "Tiān-chú-phoe – Chinese \(Min Nan\)")
+  * [粵語](https://zh-yue.wikipedia.org/wiki/%E9%9B%BB%E9%83%B5 "電郵 – Cantonese")
+
+[Modifică
+legăturile](https://www.wikidata.org/wiki/Special:EntityPage/Q9158#sitelinks-
+wikipedia "Modifică legăturile interlinguale")
+
+  * Ultima editare a paginii a fost efectuată la 27 august 2021, ora 15:36.
+  * Acest text este disponibil sub licența [Creative Commons cu atribuire și distribuire în condiții identice](https://creativecommons.org/licenses/by-sa/3.0/deed.ro); pot exista și clauze suplimentare. Vedeți detalii la [Termenii de utilizare](https://foundation.wikimedia.org/wiki/Terms_of_Use).
+
+  * [Politica de confidențialitate](https://foundation.wikimedia.org/wiki/Privacy_policy "wmf:Privacy policy")
+  * [Despre Wikipedia](/wiki/Wikipedia:Despre "Wikipedia:Despre")
+  * [Termeni](/wiki/Wikipedia:Termeni "Wikipedia:Termeni")
+  * [Versiune mobilă](//ro.m.wikipedia.org/w/index.php?title=E-mail&mobileaction=toggle_view_mobile)
+  * [Dezvoltatori](https://www.mediawiki.org/wiki/Special:MyLanguage/How_to_contribute)
+  * [Statistici](https://stats.wikimedia.org/#/ro.wikipedia.org)
+  * [Declarație cookie](https://foundation.wikimedia.org/wiki/Cookie_statement)
+
+  * [![Wikimedia Foundation](/static/images/footer/wikimedia-button.png)](https://wikimediafoundation.org/)
+  * [![Powered by MediaWiki](/static/images/footer/poweredby_mediawiki_88x31.png)](https://www.mediawiki.org/)
+
